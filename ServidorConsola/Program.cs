@@ -29,7 +29,7 @@ namespace ServidorConsola
             StreamWriter sw = new StreamWriter(ns);
 
             sw.WriteLine("BIENVENIDO");
-            Console.WriteLine("Conexion establecida");
+            Console.WriteLine("Conexion establecida :D");
             sw.Flush();
             string datos = "";
 
